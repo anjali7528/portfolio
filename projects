@@ -1,6 +1,22 @@
   [
-     {
+  {
         "id" : "1",
+        "name": "Bloggers",
+        "desc": "",
+        "github": "https://github.com/anjali7528/bloggers",
+        "img": "blogger.jpeg",
+        "website": ""
+    },
+    {
+        "id" : "2",
+        "name": "Expense Tracker",
+        "desc": "",
+        "github": "https://github.com/anjali7528/Expense-Tracker",
+        "img": "expense-tracker.jpeg",
+        "website": ""
+    },
+     {
+        "id" : "3",
         "name": "TodoList",
         "desc": "",
         "github": "https://github.com/anjali7528/todolist",
@@ -8,7 +24,7 @@
         "website": ""
     },
     {
-        "id" : "2",
+        "id" : "4",
         "name": "Contact List",
         "desc": "",
         "github": "https://github.com/anjali7528/contactlist",
@@ -16,7 +32,7 @@
         "website": ""
     },
     {
-        "id" : "3",
+        "id" : "5",
         "name": "Watch Hawk",
         "desc": "",
         "github": "https://github.com/anjali7528/movie-app",
@@ -24,7 +40,7 @@
         "website": "https://watchhawk.netlify.app/"
     },
     {
-        "id" : "4",
+        "id" : "6",
         "name": "Style-up",
         "desc": "",
         "github": "https://github.com/anjali7528/Style--Up-",
@@ -32,7 +48,7 @@
         "website": "https://style-up.netlify.app/"
     },
     {
-        "id" : "5",
+        "id" : "7",
         "name": "Weather Check",
         "desc": "",
         "github": "https://github.com/anjali7528/collegeproject",
@@ -40,7 +56,7 @@
         "website": "https://check-weather-report.netlify.app/"
     },
     {
-        "id" : "6",
+        "id" : "8",
         "name": "React Cart",
         "desc": "",
         "github": "https://github.com/anjali7528/cart-project",
